@@ -21,7 +21,7 @@
     
     [locationManager startUpdatingLocation];
     
-    NSLog(@"OldLocation %f %f", oldLocation.coordinate.latitude, oldLocation.coordinate.longitude);
+    //NSLog(@"OldLocation %f %f", oldLocation.coordinate.latitude, oldLocation.coordinate.longitude);
     //self = locationManager;
     return self;
 }
